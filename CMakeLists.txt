@@ -2,4 +2,5 @@
 
 project (CMakeTemplate)
 
+find_package(fmt)
 add_subdirectory(src)
